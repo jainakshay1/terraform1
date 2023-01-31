@@ -1,1 +1,1 @@
-resource_name = "AZ-RG-webappwork-Dev-01"
+resource_name = "Test-dev-01"
