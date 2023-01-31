@@ -1,1 +1,1 @@
-resource_name = "new_rg_01"
+resource_name = "akshay_jain_rg"
