@@ -1,1 +1,1 @@
-resource_name = "mummy_askhay"
+resource_name = "this_is_new_RG"
