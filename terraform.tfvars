@@ -1,1 +1,1 @@
-resource_name = "this_is_new_RG"
+resource_name = "this_is_a_test"
