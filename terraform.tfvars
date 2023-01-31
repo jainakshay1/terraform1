@@ -1,1 +1,1 @@
-resource_name = "dfgb"
+resource_name = "fgh"
