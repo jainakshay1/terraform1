@@ -1,1 +1,1 @@
-resource_name = "new_rg_jktes"
+resource_name = "dfgh"
