@@ -1,4 +1,4 @@
-resource_name="my_new_rg"
+resource_name= "my_new_rg"
 variable "resource_name" {
   type = string
 }
