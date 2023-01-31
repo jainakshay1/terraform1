@@ -21,7 +21,7 @@ client_secret = "ycY8Q~OymOMEpqAqyQd~bQ.snGW2ZAfJkfnvhdA~"
 # The resource block defines the type of resource we want to work with
 # The name and location are arguements for the resource block
 
-resource "azurerm_resource_group" "app_grp23"{
-  name="app-grp23" 
+resource "azurerm_resource_group" "app_grp24"{
+  name="app-grp24" 
   location="North Europe"
 }
