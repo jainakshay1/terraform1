@@ -24,4 +24,4 @@ resource "azurerm_resource_group" "app_grp24" {
   name = var.resource_name
   location = "North Europe"
 }
-resource_name= "my_new_rg"
+
