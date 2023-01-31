@@ -1,1 +1,1 @@
-resource_name = "Akshaya Jain"
+resource_name = "this_is_a_test"
