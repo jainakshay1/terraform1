@@ -1,1 +1,1 @@
-resource_name = "isthisit"
+resource_name = ""
