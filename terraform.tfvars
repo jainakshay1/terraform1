@@ -1,1 +1,1 @@
-resource_name = "fgh"
+resource_name = "sdfgh"
